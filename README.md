@@ -8,3 +8,4 @@ Kullanılan Teknikler:
 1. Negatif dönüşüm
 1. Bit düzlem dilimleme
 1. Sobel, Prewitt ve Robert Cross Kenar tespiti
+1. Salt and Pepper gürültü oluşturma
